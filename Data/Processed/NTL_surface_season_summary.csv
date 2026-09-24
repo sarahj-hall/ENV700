@@ -1,0 +1,27 @@
+lake_name,season,n_records,mean_temperature,mean_dissolved_oxygen,lake_group,landscape_position,example_watershed_area_ha
+Central Long Lake,fall,5,18.02,8.82,,,
+Central Long Lake,spring,5,16.32,8.580000000000002,,,
+Central Long Lake,summer,38,20.93421052631579,8.25,,,
+Crampton Lake,fall,3,19.3,8.5,,,
+Crampton Lake,spring,6,13.583333333333334,10.299999999999999,,,
+Crampton Lake,summer,42,22.10238095238095,8.252380952380953,,,
+East Long Lake,fall,12,17.058333333333334,8.091666666666667,,,
+East Long Lake,spring,22,16.063636363636363,9.25,,,
+East Long Lake,summer,146,21.113698630136987,7.893150684931507,,,
+Hummingbird Lake,spring,3,14.166666666666666,8.5,,,
+Hummingbird Lake,summer,26,21.26153846153846,6.673076923076923,,,
+Paul Lake,fall,27,17.17037037037037,7.859259259259259,experimental,upper,17.0
+Paul Lake,spring,62,16.546774193548387,8.86741935483871,experimental,upper,17.0
+Paul Lake,summer,435,21.725747126436783,7.600461893764434,experimental,upper,17.0
+Peter Lake,fall,32,16.959375,8.9375,experimental,upper,14.0
+Peter Lake,spring,63,16.496825396825397,9.364920634920635,experimental,upper,14.0
+Peter Lake,summer,433,21.8526558891455,8.576813953488372,experimental,upper,14.0
+Peter Lake,winter,0,,,experimental,upper,14.0
+Tuesday Lake,fall,25,16.576,7.507999999999999,experimental,upper,11.0
+Tuesday Lake,spring,34,16.741176470588236,8.867647058823529,experimental,upper,11.0
+Tuesday Lake,summer,251,21.786055776892432,7.528785425101214,experimental,upper,11.0
+Ward Lake,spring,10,16.05,9.139,,,
+Ward Lake,summer,26,22.892307692307693,7.367692307692308,,,
+West Long Lake,fall,12,17.033333333333335,8.808333333333334,,,
+West Long Lake,spring,21,16.376190476190477,9.41904761904762,,,
+West Long Lake,summer,160,21.20625,8.095625,,,
